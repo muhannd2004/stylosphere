@@ -1,4 +1,4 @@
-# StyloSphere 👗🛒
+# StyloSphere 🛒
 
 StyloSphere is a modern and feature-rich **e-commerce fashion platform** designed to deliver a smooth and intelligent shopping experience for customers and a powerful control panel for admins.
 
